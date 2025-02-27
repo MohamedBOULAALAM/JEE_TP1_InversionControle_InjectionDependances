@@ -5,7 +5,7 @@ import java.io.File;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 
-public class PresentationV2 {
+public class PresentationV2dyn {
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(new File("config.txt"));
