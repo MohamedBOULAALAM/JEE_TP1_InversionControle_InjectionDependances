@@ -52,6 +52,7 @@ Dans cette version, les objets `DaoImpl` et `MetierImpl` sont instanciés manuel
 Le DAO est injecté via un setter (`metier.setDao(...)`).
 
 📄 **Code :**
+
 ![Code - Statique](Screens/presv1.png)
 
 📊 **Résultat dans la console :**
